@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Abdullah👋</h1>
 
-## I'm an Engineering Student and a developer!!
+## I'm an Engineering Student !!
 
 - 🌱 I’m currently learning Machine Learning and Deep learning specially Computer Vision.
 - 🔭 I’m currently working on Computer vision projects 
