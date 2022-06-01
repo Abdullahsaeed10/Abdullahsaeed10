@@ -2,8 +2,6 @@
 
 ## I'm an Engineering Student !!
 
-- 🌱 I’m currently learning Machine Learning and Deep learning specially Computer Vision.
-- 🔭 I’m currently working on Computer vision projects 
 - 👯 I’m looking to collaborate on open source projects
 - 🎓 I’m currently studying engineering at Cairo University
 
