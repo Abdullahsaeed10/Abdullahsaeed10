@@ -6,7 +6,7 @@
 - 🎓 I’m currently studying engineering at Cairo University
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/-bb5772111/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abdullahsaeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/abdullah-saeed-56267a241/)
 [![Gmail Badge](https://img.shields.io/badge/-abdullahsaeedd6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdullahsaeedd6@gmail.com)](mailto:abdullahsaeedd6@gmail.com)
 <br />
 
