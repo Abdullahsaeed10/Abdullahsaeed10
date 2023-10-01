@@ -1,5 +1,5 @@
-title = "M. N. Gaafar"
-baseURL = "https://www.mngaafar.com/"
+title = "Abdullah Saeed"
+baseURL = "https://asaeed.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -8,41 +8,37 @@ PygmentsStyle = "monokai"
 enableGitInfo = true
 
 [params]
-lastName = "N. Gaafar"
+lastName = "Aly "
 showOpenSource = false
 showPublications = false
 showExperience = true
 showResume = true
 showEducation = true
-phone = "+201155277008"
-profileImage = "img/mngaafar-avatar-thumb.png"
-favicon = "/favicon.ico"
+phone = "+201009547600"
+profileImage = "img/1693224048735.jpeg"
+favicon = "img/icon.png"
 address = "Cairo, EG"
 showProjects = false
 showSocializations = true
-firstName = "Mohamed"
-email = "mohamed_gaafar@ieee.org"
+firstName = "Abdullah Saeed "
+email = "abdullahsaeedd6@gmail.com"
 showQr = true
 showBlog = true
 showSkills = false
 
 [[params.handles]]
-link = "https://github.com/mo-gaafar/"
+link = "https://github.com/Abdullahsaeed10"
 name = "GitHub"
 icon = "fa-github-alt"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/mn-gaafar/"
+link = "https://www.linkedin.com/in/abdullahsaeed10/"
 name = "LinkedIn"
-
-[[params.handles]]
-link = "https://twitter.com/jaafar_dev/"
-name = "Twitter"
 
 [params.google]
 
 [params.google.analytics]
-trackerID = "G-5GL6K1NVFM"
+trackerID = ""
 
 [outputs]
 home = ["HTML", "JSON"]
