@@ -3,7 +3,7 @@ title: "Resume"
 sitemap:
   priority : 0.1
 layout: "resume"
-canva: "https://www.canva.com/design/DAFosyETcxs/view"
+canva: "https://www.canva.com/design/DAFdIU8aMo8/1ks8DQTzPw0uhzkAzJfpDQ/view"
 ---
 
 This file exists solely to respond to /resume URL with the related `resume` layout template.
