@@ -1,0 +1,50 @@
+[
+    {
+        "role": "Backend Software Engineer",
+        "company": "Freelance",
+        "summary": "Developing and architecting market-ready software solutions from the ground up. Some technologies I use: FastAPI, ExpressJS, MongoDB, PostgreSQL, Docker, AWS",
+        "range": "May 2023 - Present"
+    },
+    {
+        "role": "Head of Web Development",
+        "company": "Cairo University Eco Racing Team",
+        "summary": "Skills: Python (Programming Language) · Postman API · Software Documentation · Django · PostgreSQL",
+        "range": "Aug 2023 - Present"
+    },
+    {
+        "role": "Back End Developer",
+        "company": "Cairo University Eco Racing Team",
+        "summary": "Skills: Python (Programming Language) · Postman API · Software Documentation · Django · PostgreSQL",
+        "range": "Oct 2022 - Aug 2023"
+    },
+    {
+        "role": "Hardware Design Engineer",
+        "company": "Cairo Uni Racing Team - Formula Student",
+        "summary": "Skills: Embedded Systems · Printed Circuit Board (PCB) Design · Hardware Testing · Altium · Electronics · Electrical Troubleshooting · Electric Vehicles",
+        "range": "Oct 2022 - Present"
+    },
+    {
+        "role": "Information Technlogy and Infrastructure Intern",
+        "company": "National Bank of Egypt (NBE)",
+        "summary": "Skills: Call Center System Infrastructure · On-Premises Datacenter · Virtulaization · VoIP · Networking ",
+        "range": "Aug 2023 - Sept 2023"
+    },
+    {
+        "role": "Clinical Engineer Trainee",
+        "company": "Al Assema Hospital",
+        "summary": "Skills: Medical Equipment · Medical Equipment Planning · Planned Preventative Maintenance · Predictive Maintenance · Healthcare Industry · Healthcare Management",
+        "range": "Aug 2022 - Sep 2022"
+    },
+    {
+        "role": "Game Developer",
+        "company": "Clear Pictures",
+        "summary": "Developing educational games for children. Using the unity engine and c#. Skills: Object-Oriented Programming (OOP) · C# · Unity · Event Driven Programming · GitHub · Game Development · Game Programming",
+        "range": "Jul 2022 - Aug 2022"
+    },
+    {
+        "role": "Public Relations Assistant",
+        "company": "Adham Omar ESL",
+        "summary": "Responsible for communication with the students and their parents. Skills: Microsoft Office · Communication · Customer Relationship Management (CRM) · Public Relations",
+        "range": "Sep 2018 - May 2019"
+    }
+]
